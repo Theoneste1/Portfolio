@@ -1,44 +1,48 @@
-# My-Portfolio
+Project Name
+==>Hello Microverse
+Description the project.
+==>This is the first project that has been made by me at the first time in Microverse
 
-#
+Built With
+==>It has been built with HTML and CSS
 
-> This project is about setting up my portfolio's mobile version skeleton.
-![setup m-version skeleton](./photos/shots/screenshot1.png)
+Major languages
+==>HTML
+# my Poltfolio
 
-Additional description about the project and its features.
+> The purpose of this project is just to show how far I'am in using Github tools by creating a hello Microverse project with linters.
+
+![screenshot](./pic.png)
+
+My first project with microverse
 
 ## Built With
 
-- html
-- css
+- HTML & CSS
+- Html & Css linters
 
-To get a local copy up and running follow these simple example steps.
+## Live Demo
 
-### Prerequisites
+[Live Demo Link](https://Theoneste1.github.io/microverseinc/)
 
-### Setup
+## Getting Started
 
-### Install
+- clone the repository by running\
+   `https://github.com/Theoneste1/microverseinc.git`
+- navigate to the folder\
+   `cd microverseinc`
 
-### Usage
+## Authors
 
-### Run tests
+👤 **Theoenste1**
 
-### Deployment
-
-[Web View](https://goliviernation.github.io/portfolio/)
-
-## Author
-
-👤 **Olivier**
-
-- GitHub: [@GOlivierNation](https://github.com/GOlivierNation)
+- GitHub: [@githubhandle](https://github.com/Theoneste1)
+- Twitter: [@twitterhandle](https://twitter.com/Theoneste99)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/theoneste-nsanzabarinda-458540157/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
