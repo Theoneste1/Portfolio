@@ -1,0 +1,23 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Project Name\r ==>Hello Microverse\r Description the project.\r ==>This is the first project that has been made by me at the first time in Microverse",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Theoneste1/Portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Theoneste1/Portfolio/issues"
+  },
+  "homepage": "https://github.com/Theoneste1/Portfolio#readme",
+  "devDependencies": {
+    "hint": "^6.2.0"
+  }
+}
